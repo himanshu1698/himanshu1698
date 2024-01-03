@@ -6,6 +6,21 @@ I'm a curious coder on a journey of learning and exploration.
 My GitHub is a  collection of projects where I've tinkered with tech, dipped my toes into machine learning, and embraced the joy of problem-solving. 
 Join me in this humble corner of the coding universe as I navigate the endless sea of possibilities. 🚶‍♂️✨ #CodingJourney #AlwaysLearning"
 
+## Languages and Skills 🚀
+
+- **Languages:**
+  - Python
+  - R
+  - SQL
+
+- **Skills:**
+  - Machine Learning
+  - Data Science
+  - Selenium Automation
+  - Cloud Computing (AWS)
+  - Database Management (SQL, MongoDB)
+  - Version Control (Git)
+  - Problem Solving
 <!--
 **himanshu1698/himanshu1698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
