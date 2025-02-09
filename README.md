@@ -2,9 +2,8 @@
 
 I'm Himanshu Shrivastava, currently a Business Analytics and Information Systems student at the University of South Florida, Tampa.
 
-I'm a curious coder on a journey of learning and exploration. 
-My GitHub is a  collection of projects where I've tinkered with tech, dipped my toes into machine learning, and embraced the joy of problem-solving. 
-Join me in this corner of the coding universe as I navigate the endless sea of possibilities. 🚶‍♂️✨ #CodingJourney #AlwaysLearning
+My GitHub is a collection of projects where I've tinkered with tech and dipped my toes into machine learning. 
+
 
 ## Languages and Skills 🚀
 
