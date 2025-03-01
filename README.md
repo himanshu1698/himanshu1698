@@ -15,11 +15,11 @@ My GitHub is a collection of projects where I've tinkered with tech and dipped m
 - **Skills:**
   - Machine Learning
   - Data Science
-  - Selenium Automation
   - Cloud Computing (AWS)
   - Database Management (SQL, MongoDB)
   - Version Control (Git)
   - Problem Solving
+  - Selenium Automation
 <!--
 **himanshu1698/himanshu1698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
